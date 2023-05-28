@@ -1,4 +1,4 @@
-# Сreate reliable and stylish IT solutions
+# Сreate reliable and stylish IT solutions ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊᠊᠆ࠣ࠘᠊᠊᠊᠊᠊᠆ࠣ࠘᠊᠊° ︻╦̵̵̿╤──
 ```
    _____ ___  ____     ____ _   _ _   _ ____  
   |_   _/ _ \|  _ \   / ___| | | | \ | / ___| 
