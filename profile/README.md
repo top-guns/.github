@@ -20,4 +20,5 @@
   `------'  
 ```  
 
-<img src="https://github.com/top-guns/.github/raw/main/profile/big-image.svg" alt="" title="Logo" style="min-width: 100%;">
+<img src="https://github.com/top-guns/.github/raw/main/profile/big-image.svg" title="Logo" width="100%"/>
+
