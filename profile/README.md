@@ -20,4 +20,4 @@
   `------'  
 ```  
 
-<img src="./profile/big-image.svg" alt="Diagram" title="Logo" style="max-width: 100%;">
+<img src="./profile/big-image.svg" alt="Diagram" title="Logo" style="min-width: 100%;">
