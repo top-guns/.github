@@ -1,19 +1,19 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      
-      <style scoped>
-        .big-image {
-            display: none;
+      <style>
+        .container {
+          display: none;
         }
         @media (min-width: 700px) {
-            .big-image {   
-                display: block;
-            }
+          .container {   
+            display: block;
+          }
         }
       </style>
 
-      <pre class="big-image">
+      <div class="container">
+        <pre>
                             ▄▄▄█████▓ ▒█████   ██▓███       ▄████  █    ██  ███▄    █   ██████ 
                             ▓  ██▒ ▓▒▒██▒  ██▒▓██░  ██▒    ██▒ ▀█▒ ██  ▓██▒ ██ ▀█   █ ▒██    ▒ 
                             ▒ ▓██░ ▒░▒██░  ██▒▓██░ ██▓▒   ▒██░▄▄▄░▓██  ▒██░▓██  ▀█ ██▒░ ▓██▄   
@@ -37,7 +37,8 @@
  ██▒▒▒▒▒▒▒▒▒▒▒▒██                                                                                         
    ██▒▒▒▒▒▒▒▒▒▒██                                                                                       
    ░░▓▓▓▓▓▓▓▓▓▓░░                                                                                          
-      </pre>
+        </pre>
+      </div>
     </div>
   </foreignObject>
 </svg>
